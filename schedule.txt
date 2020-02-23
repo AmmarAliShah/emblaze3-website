@@ -1,0 +1,116 @@
+<div class="row animate-box">
+    <div class="col-md-10 col-md-offset-1 text-center">
+        <ul class="schedule">
+            <li><a href="#" class="active" data-sched="sunday">Day 01</a></li>
+            <li><a href="#" data-sched="monday">Day 02</a></li>
+            <li><a href="#" data-sched="tuesday">Day 03</a></li>
+        </ul>
+    </div>
+    <div class="row text-center">
+
+        <div class="col-md-12 schedule-container">
+
+            <div class="schedule-content active" data-day="sunday">
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-dumbell.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Table Tennis</h3>
+                        
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-yoga.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Basketball</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-cycling.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Futsal</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-boxing.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Squash</h3>
+                    </div>
+                </div>
+            </div>
+            <!-- END sched-content -->
+
+            <div class="schedule-content" data-day="monday">
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-yoga.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Basketball</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-dumbell.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Table Tennis</h3>
+                        
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-boxing.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Squash</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-cycling.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Futsal</h3>
+                    </div>
+                </div>
+                
+            </div>
+            <!-- END sched-content -->
+
+            <div class="schedule-content" data-day="tuesday">
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-dumbell.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Table Tennis</h3>
+                        
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-yoga.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Basketball</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-cycling.svg" alt="">
+                        <small>06AM-7AM</small>
+                        <h3>Futsal</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="program program-schedule">
+                        <img src="images/fit-boxing.svg" alt="Cycling">
+                        <small>06AM-7AM</small>
+                        <h3>Squash</h3>
+                    </div>
+                </div>
+            </div>
+            <!-- END sched-content -->
+        </div>
+
+        
+    </div>
+</div>
